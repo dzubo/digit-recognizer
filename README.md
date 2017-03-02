@@ -1,5 +1,5 @@
 # Tutorial on Using Keras for digits recognition from MNIST dataset
 
 To run the notebook locally, please create `data/` folder in the notebook's folder
-and download data from Kaggle to the `data/` folder:
+and download data from Kaggle to the `data/` folder:  
 https://www.kaggle.com/c/digit-recognizer/data
